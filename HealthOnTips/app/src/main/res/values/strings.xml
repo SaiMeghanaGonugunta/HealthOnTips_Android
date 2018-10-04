@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">HealthOnTips</string>
+    <string name="healthontips">HealthOnTips</string>
+    <string name="todo">TODO</string>
+    <string name="headache">
+        <h2>HEADACHE</h2>
+        Now a days headache has became the part and parcle of our life(from school going kids to adults)due pollution, work pressures and tensions.
+        For this we are having some tips to get rid of headache
+        1) Washing face with cold water and keeping the ice bags on forehead and eyes.
+        2)Hot oil massage.
+        3)Meditation
+        4) Listening to music.
+        For those who are suffering with migraine:
+        1) Dry ginger(sonti kommu) make the paste of it and apply it on the forehead we will get relief.
+    </string>
+
+    <string name="coldcommonflue">
+        <h2>COLD/COMMON FLUE</h2>
+        This is the most common issue that we come across in most of the situations (whether it may be summer or winter),running nose,
+        blocking of nose,throat irritation,changing of voice and throat pain these are the issues we face with the cold
+       1) the best cure for cold is home made khashyam
+          here we are going to give recipe to prepare it
+          items we need are  sonti(dry ginger),miriyalu(black pepper),daniyalu (daniya)we have to take them in equal quantities and dried and then
+          we have to grain them.For one glass of water we have to use one teaspoon of the powder and we have boli it(same as we prepare tea)
+          after that we have add some milk and jaggery (bellam),based on the severity we can take 1 to 2 times a day.It will give good results
+          for cold ,throat pain ,throat irritation ,cough,change in voice.
+        2)We can also use steamer(aviri pattadam)
+          Take some hot water and add some zandu balm,turmeric and then take steam of it foe min of 15min.
+
+       B)For small kids(below 10 years):
+        1) Tulasi leaves juice is the best medicine for cold,cough and throat infection for small children.
+
+        C)For infants(months babies):
+         Babies will face nose blocks during nights(mostly), the best thing we can do get rid of this problem we can make use of Nalla Inguva.
+         1)What we have to do is we have to make paste of nalla inguva then apply it on nose and throat, babies will get relief and sleeps happily.
+    </string>
+
+    <string name="asthma">
+        <h2>ASTHMA</h2>
+        It is also one of the common problem which we face in our daily life here we are going to give home remedy for get rid asthma problem.
+         1)All we need is some onions and honey. We have grain the onions and make juice of it and add one tablespoon of honey.
+          Taking it daily for one month will cure asthma.
+    </string>
+
+    <string name="stomachpain">
+        <h2> STOMACH PAIN</h2>
+        Mostly we will get stomach pain due to indigestion to get rid of this we have to drink more water
+        other way is taking warm water.
+        For small kids we have to dry the vasa koomu and make powder adding a pinch of it in milk and give them daily.
+        It will improves the digestion power and also increases the capability to speak fast
+    </string>
+
+    <string name="motions">
+        <h2>MOTIONS</h2>
+        It is caused due to change in water and food poision,here we are going suggest a tip to get rid this
+        Take small quantity of fenugreek seeds(mentulu) with curd can cure it otherwise you can also take it with water.
+    </string>
+
+    <string name="sunstroke">
+        <h2>SUN STROKE</h2>
+        During summer this is the main problem that everyone will face to avoid this we can have strach water(ganji water)
+        with a pinch of salt and glucose.
+        We can also take barley water with glucose.
+        We should drink more water,coconut water,fresh fruit juice.
+    </string>
+
+    <string name="kneepain">
+    <h2>KNEE PAIN</h2>
+        This is the most common in adults(30+)here is a small tip that can give relief to your pain
+        what we need is some fenugreek seeds(mentulu) and water.Grain the seeds and add some to it and make a paste of it.
+        Apply it on the knee and keep it for half hour and after that clean it with water.
+    </string>
+
+    <string name="hairfall">
+        <h2>HAIR FALL </h2>
+        Now a days it is most common problem for each and everyone, the reason for this is pollution,tensions,dandruff etc
+        Here we are having some home remedies to overcome this problem
+        1)Make paste of fenugreek seeds and curd apply it on hair and leave it for half to one hour and wash the hair.
+          For better results use twice in a week.
+        2)Make the paste of hibiscus leafs and curd apply it on hair and leave it for half to one hour and wash the hair.
+          For better results use twice in a week.
+        3)Take olive oil,coconut oil,mustard oil mix it equal quantity and keep it on  stove and boil for 10 min  then allow
+         it to cool then place the oil in one jar  and leave it undisturbed for 10 hours then use the oil.For better results use daily.
+    </string>
+
+    <string name="summertips">
+        <h2>SUMMER TIPS</h2>
+        During summer we have take extra care for our body to protect it from the summer effect
+       1) First and the foremost thing is we have as much water as we can(min 8 lit required per day) so that we can protect our body from dehydration.
+       2) Sabja (seeds) water also helps us to reduce the body heat during the summer.
+       3)Fresh fruit juice will also helps to maintain the glucose content in the body.
+       4)coconut water,butter milk,barley water,glucose water will help a lot .
+    </string>
+
+    <string name="vomitings">
+       <h2>VOMITINGS</h2>
+
+       1)It causes due to food poision, indigestion,water change etc to get rid of this we can take jeera power with some honey will give better results.
+       2)1 spoon ginger+1/2 lemon juice take it with empty stomach will improves digestive system.
+    </string>
+
+    <string name="pimples">
+        <h2>PIMPLES</h2>
+        It is a most general problem that most young girls encounter.
+        Here we are going to give some home remedies to over this problem.
+        1)Make the paste of garlic and adding some turmeric and water to it and apply it on the pimples then clean it after 20 min.for better results use twice a week.
+        2)Apply alovera gel on the pimples and leave it for 20 min and then clean it with water for better results use twice a day.
+    </string>
+
+    <string name="reelingsensation">
+        <h2>REELING SENSATION</h2>
+        It is mainly caused due to the usage of medicines,feeling tasteless,feel like falling down.....,
+        To overcome this all we need to do is take some jeera powder with honey twice a day then you will feel better.
+    </string>
+
+    <string name="mouthulcers">
+        <h2>MOUTH ULCERS</h2>
+        It is caused due to the over heat in our body.To overcome this
+        1)Taking sufficient smount of water is necessary.
+        2)Chewing dried coconut twice a day will give the best results.
+    </string>
+
+    <string name="menstrualcramps">
+        <h2>MENSTRUAL CRAMPS</h2>
+        It is a general problem faced by every women.To reduce these cramps here are some remedies.
+        1)Applying heat to the lower abdomen(heat bags).
+        2)Massaging the lower abdomen with oil gives relief.
+        3)By taking the juice of ginger,honey,lemon will give better results.
+        4)Roast the sesame seeds(nuvvulu) with small amount of ghee
+         after cooling it add some jaggery to this and make laddus using ghee taking one laddu a day will give best results.
+    </string>
+
+    <string name="gastericproblem">
+        <h2>GASTERIC PROBLEM</h2>
+        1)Take some jeera and smash it with hands(use little amount of neeru sunnam) and take it with water.
+        2)Take some ginger and smash it and add it to hot water then filter it and add some amount of honey and take it .It gives the best results.
+   </string>
+
+</resources>
